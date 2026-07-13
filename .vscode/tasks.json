@@ -31,6 +31,13 @@
     },
     {
       "type": "npm",
+      "script": "serve",
+      "path": "Samples/TypeScript/Demo/",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "npm",
       "script": "test",
       "path": "Samples/TypeScript/Demo/",
       "group": "test",
